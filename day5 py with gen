@@ -1,0 +1,26 @@
+students = ['Akhila', 'Jeevitha', 'Dinesh', 'Rahul', 'Adnan', 'Mohit']
+print(students)
+message = f" keep up the good work, {students[0].title()}"
+print(message)
+message = f" keep up the good work, {students[2].title()}"
+print(message)
+
+for x in students:
+    print(x)
+    print(f" keep up the good work, {x.title()}")
+
+for x in students:
+    print(x)
+    print(f" keep up the good work, {x.title()}")
+    print(f" do submit thw wrok today, {x.title()}")
+
+
+dimensions = (200, 10)
+print(dimensions)
+print(dimensions[0])
+
+students = ('Sobia', 'Akhila', 'Dinesh', 'Asif', 'John', 'Ashwini')
+print(students)
+
+for x in students:
+    print(students)
