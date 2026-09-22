@@ -1,0 +1,8 @@
+students = ['mahesh', 'siva', 'vamsi', 'rajesh','pavan']
+print(students)
+print(students[0])
+print(students[2])
+students.append('Rakesh')
+print(students)
+students.insert(2, 'Naresh')
+print(students)
