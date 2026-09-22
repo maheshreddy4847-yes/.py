@@ -1,0 +1,15 @@
+students = ['mahesh', 'naresh', 'siva', 'rajesh', 'pavan']
+print(students)
+del students[2]
+print(students)
+students.pop()
+print(students)
+
+cars = ['suzuki', 'mahendra', 'kia', 'benz', 'audi' ]
+print(cars)
+print(len(cars))
+print(cars[2])
+print(cars[0:1])
+print(cars[0:2])
+print(cars[0:5:2])
+print(cars.pop())
